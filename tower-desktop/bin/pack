@@ -1,0 +1,2341 @@
+
+pack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+blue_desert
+  rotate: false
+  xy: 1, 1535
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+blue_grass
+  rotate: false
+  xy: 1, 1021
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+blue_land
+  rotate: false
+  xy: 515, 1535
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+blue_shroom
+  rotate: false
+  xy: 1, 507
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+colored_desert
+  rotate: false
+  xy: 515, 1021
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+colored_grass
+  rotate: false
+  xy: 1029, 1535
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+colored_land
+  rotate: false
+  xy: 515, 507
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+colored_shroom
+  rotate: false
+  xy: 1029, 1021
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+elementExplosive019
+  rotate: false
+  xy: 1, 365
+  size: 220, 140
+  orig: 220, 140
+  offset: 0, 0
+  index: -1
+elementExplosive021
+  rotate: false
+  xy: 1543, 1827
+  size: 140, 220
+  orig: 140, 220
+  offset: 0, 0
+  index: -1
+elementExplosive024
+  rotate: false
+  xy: 1029, 879
+  size: 220, 140
+  orig: 220, 140
+  offset: 0, 0
+  index: -1
+elementExplosive026
+  rotate: false
+  xy: 1, 143
+  size: 140, 220
+  orig: 140, 220
+  offset: 0, 0
+  index: -1
+elementExplosive035
+  rotate: false
+  xy: 1, 1
+  size: 220, 140
+  orig: 220, 140
+  offset: 0, 0
+  index: -1
+elementExplosive037
+  rotate: false
+  xy: 143, 143
+  size: 140, 220
+  orig: 140, 220
+  offset: 0, 0
+  index: -1
+elementExplosive040
+  rotate: false
+  xy: 223, 365
+  size: 220, 140
+  orig: 220, 140
+  offset: 0, 0
+  index: -1
+elementExplosive054
+  rotate: false
+  xy: 223, 1
+  size: 220, 140
+  orig: 220, 140
+  offset: 0, 0
+  index: -1
+elementExplosive042
+  rotate: false
+  xy: 285, 143
+  size: 140, 220
+  orig: 140, 220
+  offset: 0, 0
+  index: -1
+elementExplosive056
+  rotate: false
+  xy: 1543, 1605
+  size: 140, 220
+  orig: 140, 220
+  offset: 0, 0
+  index: -1
+elementGlass020
+  rotate: false
+  xy: 1685, 1907
+  size: 220, 140
+  orig: 220, 140
+  offset: 0, 0
+  index: -1
+elementGlass022
+  rotate: false
+  xy: 1907, 1827
+  size: 140, 220
+  orig: 140, 220
+  offset: 0, 0
+  index: -1
+elementGlass025
+  rotate: false
+  xy: 1685, 1765
+  size: 220, 140
+  orig: 220, 140
+  offset: 0, 0
+  index: -1
+elementGlass027
+  rotate: false
+  xy: 1907, 1605
+  size: 140, 220
+  orig: 140, 220
+  offset: 0, 0
+  index: -1
+elementGlass036
+  rotate: false
+  xy: 1685, 1623
+  size: 220, 140
+  orig: 220, 140
+  offset: 0, 0
+  index: -1
+elementGlass038
+  rotate: false
+  xy: 1029, 657
+  size: 140, 220
+  orig: 140, 220
+  offset: 0, 0
+  index: -1
+elementGlass041
+  rotate: false
+  xy: 1251, 879
+  size: 220, 140
+  orig: 220, 140
+  offset: 0, 0
+  index: -1
+elementGlass043
+  rotate: false
+  xy: 1543, 1383
+  size: 140, 220
+  orig: 140, 220
+  offset: 0, 0
+  index: -1
+elementGlass052
+  rotate: false
+  xy: 1685, 1481
+  size: 220, 140
+  orig: 220, 140
+  offset: 0, 0
+  index: -1
+elementGlass054
+  rotate: false
+  xy: 1907, 1383
+  size: 140, 220
+  orig: 140, 220
+  offset: 0, 0
+  index: -1
+elementMetal019
+  rotate: false
+  xy: 1685, 1339
+  size: 220, 140
+  orig: 220, 140
+  offset: 0, 0
+  index: -1
+elementMetal021
+  rotate: false
+  xy: 1543, 1161
+  size: 140, 220
+  orig: 140, 220
+  offset: 0, 0
+  index: -1
+elementMetal026
+  rotate: false
+  xy: 1907, 1161
+  size: 140, 220
+  orig: 140, 220
+  offset: 0, 0
+  index: -1
+elementMetal024
+  rotate: false
+  xy: 1685, 1197
+  size: 220, 140
+  orig: 220, 140
+  offset: 0, 0
+  index: -1
+elementMetal035
+  rotate: false
+  xy: 445, 365
+  size: 220, 140
+  orig: 220, 140
+  offset: 0, 0
+  index: -1
+elementMetal037
+  rotate: false
+  xy: 427, 143
+  size: 140, 220
+  orig: 140, 220
+  offset: 0, 0
+  index: -1
+elementMetal040
+  rotate: false
+  xy: 445, 1
+  size: 220, 140
+  orig: 220, 140
+  offset: 0, 0
+  index: -1
+elementMetal042
+  rotate: false
+  xy: 569, 143
+  size: 140, 220
+  orig: 140, 220
+  offset: 0, 0
+  index: -1
+elementMetal054
+  rotate: false
+  xy: 667, 365
+  size: 220, 140
+  orig: 220, 140
+  offset: 0, 0
+  index: -1
+elementStone019
+  rotate: false
+  xy: 667, 1
+  size: 220, 140
+  orig: 220, 140
+  offset: 0, 0
+  index: -1
+elementMetal056
+  rotate: false
+  xy: 711, 143
+  size: 140, 220
+  orig: 140, 220
+  offset: 0, 0
+  index: -1
+elementStone021
+  rotate: false
+  xy: 1171, 657
+  size: 140, 220
+  orig: 140, 220
+  offset: 0, 0
+  index: -1
+elementStone024
+  rotate: false
+  xy: 1029, 515
+  size: 220, 140
+  orig: 220, 140
+  offset: 0, 0
+  index: -1
+elementStone026
+  rotate: false
+  xy: 1313, 657
+  size: 140, 220
+  orig: 140, 220
+  offset: 0, 0
+  index: -1
+elementStone035
+  rotate: false
+  xy: 1251, 515
+  size: 220, 140
+  orig: 220, 140
+  offset: 0, 0
+  index: -1
+elementExplosive013
+  rotate: false
+  xy: 1685, 1125
+  size: 220, 70
+  orig: 220, 70
+  offset: 0, 0
+  index: -1
+elementStone037
+  rotate: false
+  xy: 1907, 939
+  size: 140, 220
+  orig: 140, 220
+  offset: 0, 0
+  index: -1
+elementExplosive018
+  rotate: false
+  xy: 1543, 1019
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+elementStone040
+  rotate: false
+  xy: 1685, 983
+  size: 220, 140
+  orig: 220, 140
+  offset: 0, 0
+  index: -1
+elementExplosive020
+  rotate: false
+  xy: 853, 143
+  size: 70, 220
+  orig: 70, 220
+  offset: 0, 0
+  index: -1
+elementStone051
+  rotate: false
+  xy: 889, 1
+  size: 220, 140
+  orig: 220, 140
+  offset: 0, 0
+  index: -1
+elementExplosive023
+  rotate: false
+  xy: 889, 365
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+elementStone042
+  rotate: false
+  xy: 925, 143
+  size: 140, 220
+  orig: 140, 220
+  offset: 0, 0
+  index: -1
+elementWood018
+  rotate: false
+  xy: 1031, 373
+  size: 220, 140
+  orig: 220, 140
+  offset: 0, 0
+  index: -1
+elementWood023
+  rotate: false
+  xy: 1253, 373
+  size: 220, 140
+  orig: 220, 140
+  offset: 0, 0
+  index: -1
+elementStone053
+  rotate: false
+  xy: 1067, 151
+  size: 140, 220
+  orig: 140, 220
+  offset: 0, 0
+  index: -1
+elementWood020
+  rotate: false
+  xy: 1209, 151
+  size: 140, 220
+  orig: 140, 220
+  offset: 0, 0
+  index: -1
+elementWood034
+  rotate: false
+  xy: 1111, 9
+  size: 220, 140
+  orig: 220, 140
+  offset: 0, 0
+  index: -1
+elementWood025
+  rotate: false
+  xy: 1351, 151
+  size: 140, 220
+  orig: 140, 220
+  offset: 0, 0
+  index: -1
+elementWood039
+  rotate: false
+  xy: 1333, 9
+  size: 220, 140
+  orig: 220, 140
+  offset: 0, 0
+  index: -1
+elementExplosive025
+  rotate: false
+  xy: 1455, 657
+  size: 70, 220
+  orig: 70, 220
+  offset: 0, 0
+  index: -1
+elementWood036
+  rotate: false
+  xy: 1527, 797
+  size: 140, 220
+  orig: 140, 220
+  offset: 0, 0
+  index: -1
+elementWood050
+  rotate: false
+  xy: 1669, 841
+  size: 220, 140
+  orig: 220, 140
+  offset: 0, 0
+  index: -1
+elementExplosive034
+  rotate: false
+  xy: 1527, 655
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+elementWood041
+  rotate: false
+  xy: 1669, 619
+  size: 140, 220
+  orig: 140, 220
+  offset: 0, 0
+  index: -1
+elementWood052
+  rotate: false
+  xy: 1811, 619
+  size: 140, 220
+  orig: 140, 220
+  offset: 0, 0
+  index: -1
+elementExplosive000
+  rotate: false
+  xy: 1891, 867
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementExplosive036
+  rotate: false
+  xy: 1953, 645
+  size: 70, 220
+  orig: 70, 220
+  offset: 0, 0
+  index: -1
+elementExplosive003
+  rotate: false
+  xy: 1473, 583
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementStone003
+  rotate: false
+  xy: 1473, 583
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementExplosive039
+  rotate: false
+  xy: 1475, 441
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+elementExplosive041
+  rotate: false
+  xy: 1493, 219
+  size: 70, 220
+  orig: 70, 220
+  offset: 0, 0
+  index: -1
+elementExplosive055
+  rotate: false
+  xy: 1565, 219
+  size: 70, 220
+  orig: 70, 220
+  offset: 0, 0
+  index: -1
+elementExplosive016
+  rotate: false
+  xy: 1617, 547
+  size: 220, 70
+  orig: 220, 70
+  offset: 0, 0
+  index: -1
+elementExplosive029
+  rotate: false
+  xy: 1617, 475
+  size: 220, 70
+  orig: 220, 70
+  offset: 0, 0
+  index: -1
+elementGlass021
+  rotate: false
+  xy: 1637, 253
+  size: 70, 220
+  orig: 70, 220
+  offset: 0, 0
+  index: -1
+elementGlass026
+  rotate: false
+  xy: 1709, 253
+  size: 70, 220
+  orig: 70, 220
+  offset: 0, 0
+  index: -1
+elementGlass037
+  rotate: false
+  xy: 1781, 253
+  size: 70, 220
+  orig: 70, 220
+  offset: 0, 0
+  index: -1
+elementExplosive053
+  rotate: false
+  xy: 1839, 477
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+elementGlass042
+  rotate: false
+  xy: 1853, 255
+  size: 70, 220
+  orig: 70, 220
+  offset: 0, 0
+  index: -1
+elementGlass053
+  rotate: false
+  xy: 1925, 255
+  size: 70, 220
+  orig: 70, 220
+  offset: 0, 0
+  index: -1
+elementExplosive032
+  rotate: false
+  xy: 1637, 181
+  size: 220, 70
+  orig: 220, 70
+  offset: 0, 0
+  index: -1
+elementGlass019
+  rotate: false
+  xy: 1859, 113
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+elementExplosive051
+  rotate: false
+  xy: 1555, 109
+  size: 220, 70
+  orig: 220, 70
+  offset: 0, 0
+  index: -1
+elementGlass014
+  rotate: false
+  xy: 1555, 37
+  size: 220, 70
+  orig: 220, 70
+  offset: 0, 0
+  index: -1
+elementExplosive017
+  rotate: false
+  xy: 1777, 39
+  size: 70, 140
+  orig: 70, 140
+  offset: 0, 0
+  index: -1
+elementExplosive006
+  rotate: false
+  xy: 1849, 41
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementExplosive046
+  rotate: false
+  xy: 1991, 50
+  size: 56, 61
+  orig: 56, 61
+  offset: 0, 0
+  index: -1
+elementMetal046
+  rotate: false
+  xy: 1493, 156
+  size: 56, 61
+  orig: 56, 61
+  offset: 0, 0
+  index: -1
+debrisGlass
+  rotate: false
+  xy: 1981, 582
+  size: 55, 61
+  orig: 55, 61
+  offset: 0, 0
+  index: 2
+debrisStone
+  rotate: false
+  xy: 1981, 519
+  size: 55, 61
+  orig: 55, 61
+  offset: 0, 0
+  index: 2
+
+pack2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+elementGlass017
+  rotate: false
+  xy: 1, 1975
+  size: 220, 70
+  orig: 220, 70
+  offset: 0, 0
+  index: -1
+elementGlass030
+  rotate: false
+  xy: 1, 1903
+  size: 220, 70
+  orig: 220, 70
+  offset: 0, 0
+  index: -1
+elementGlass033
+  rotate: false
+  xy: 223, 1975
+  size: 220, 70
+  orig: 220, 70
+  offset: 0, 0
+  index: -1
+elementGlass049
+  rotate: false
+  xy: 1, 1831
+  size: 220, 70
+  orig: 220, 70
+  offset: 0, 0
+  index: -1
+elementMetal013
+  rotate: false
+  xy: 223, 1903
+  size: 220, 70
+  orig: 220, 70
+  offset: 0, 0
+  index: -1
+elementMetal016
+  rotate: false
+  xy: 445, 1975
+  size: 220, 70
+  orig: 220, 70
+  offset: 0, 0
+  index: -1
+elementMetal020
+  rotate: false
+  xy: 1, 1609
+  size: 70, 220
+  orig: 70, 220
+  offset: 0, 0
+  index: -1
+elementMetal025
+  rotate: false
+  xy: 1, 1387
+  size: 70, 220
+  orig: 70, 220
+  offset: 0, 0
+  index: -1
+elementMetal029
+  rotate: false
+  xy: 223, 1831
+  size: 220, 70
+  orig: 220, 70
+  offset: 0, 0
+  index: -1
+elementMetal032
+  rotate: false
+  xy: 445, 1903
+  size: 220, 70
+  orig: 220, 70
+  offset: 0, 0
+  index: -1
+elementMetal036
+  rotate: false
+  xy: 73, 1609
+  size: 70, 220
+  orig: 70, 220
+  offset: 0, 0
+  index: -1
+elementMetal041
+  rotate: false
+  xy: 1, 1165
+  size: 70, 220
+  orig: 70, 220
+  offset: 0, 0
+  index: -1
+elementMetal051
+  rotate: false
+  xy: 667, 1975
+  size: 220, 70
+  orig: 220, 70
+  offset: 0, 0
+  index: -1
+elementMetal055
+  rotate: false
+  xy: 73, 1387
+  size: 70, 220
+  orig: 70, 220
+  offset: 0, 0
+  index: -1
+elementStone013
+  rotate: false
+  xy: 445, 1831
+  size: 220, 70
+  orig: 220, 70
+  offset: 0, 0
+  index: -1
+elementStone016
+  rotate: false
+  xy: 145, 1759
+  size: 220, 70
+  orig: 220, 70
+  offset: 0, 0
+  index: -1
+elementStone020
+  rotate: false
+  xy: 1, 943
+  size: 70, 220
+  orig: 70, 220
+  offset: 0, 0
+  index: -1
+elementStone025
+  rotate: false
+  xy: 73, 1165
+  size: 70, 220
+  orig: 70, 220
+  offset: 0, 0
+  index: -1
+elementStone029
+  rotate: false
+  xy: 667, 1903
+  size: 220, 70
+  orig: 220, 70
+  offset: 0, 0
+  index: -1
+elementStone032
+  rotate: false
+  xy: 889, 1975
+  size: 220, 70
+  orig: 220, 70
+  offset: 0, 0
+  index: -1
+elementStone036
+  rotate: false
+  xy: 145, 1537
+  size: 70, 220
+  orig: 70, 220
+  offset: 0, 0
+  index: -1
+elementStone041
+  rotate: false
+  xy: 1, 721
+  size: 70, 220
+  orig: 70, 220
+  offset: 0, 0
+  index: -1
+elementStone048
+  rotate: false
+  xy: 367, 1759
+  size: 220, 70
+  orig: 220, 70
+  offset: 0, 0
+  index: -1
+elementStone052
+  rotate: false
+  xy: 73, 943
+  size: 70, 220
+  orig: 70, 220
+  offset: 0, 0
+  index: -1
+elementWood012
+  rotate: false
+  xy: 667, 1831
+  size: 220, 70
+  orig: 220, 70
+  offset: 0, 0
+  index: -1
+elementWood015
+  rotate: false
+  xy: 889, 1903
+  size: 220, 70
+  orig: 220, 70
+  offset: 0, 0
+  index: -1
+elementWood019
+  rotate: false
+  xy: 145, 1315
+  size: 70, 220
+  orig: 70, 220
+  offset: 0, 0
+  index: -1
+elementWood024
+  rotate: false
+  xy: 217, 1537
+  size: 70, 220
+  orig: 70, 220
+  offset: 0, 0
+  index: -1
+elementWood028
+  rotate: false
+  xy: 1111, 1975
+  size: 220, 70
+  orig: 220, 70
+  offset: 0, 0
+  index: -1
+elementWood031
+  rotate: false
+  xy: 589, 1759
+  size: 220, 70
+  orig: 220, 70
+  offset: 0, 0
+  index: -1
+elementWood035
+  rotate: false
+  xy: 1, 499
+  size: 70, 220
+  orig: 70, 220
+  offset: 0, 0
+  index: -1
+elementWood040
+  rotate: false
+  xy: 73, 721
+  size: 70, 220
+  orig: 70, 220
+  offset: 0, 0
+  index: -1
+elementWood047
+  rotate: false
+  xy: 889, 1831
+  size: 220, 70
+  orig: 220, 70
+  offset: 0, 0
+  index: -1
+elementWood051
+  rotate: false
+  xy: 145, 1093
+  size: 70, 220
+  orig: 70, 220
+  offset: 0, 0
+  index: -1
+elementGlass024
+  rotate: false
+  xy: 289, 1617
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+elementGlass035
+  rotate: false
+  xy: 1111, 1833
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+elementGlass040
+  rotate: false
+  xy: 431, 1617
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+elementGlass051
+  rotate: false
+  xy: 573, 1617
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+elementMetal018
+  rotate: false
+  xy: 715, 1617
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+elementExplosive009
+  rotate: false
+  xy: 811, 1759
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementStone009
+  rotate: false
+  xy: 811, 1759
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementMetal023
+  rotate: false
+  xy: 857, 1617
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+elementExplosive012
+  rotate: false
+  xy: 953, 1759
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementMetal034
+  rotate: false
+  xy: 999, 1617
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+elementMetal039
+  rotate: false
+  xy: 289, 1475
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+elementMetal053
+  rotate: false
+  xy: 431, 1475
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+elementStone018
+  rotate: false
+  xy: 573, 1475
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+elementStone023
+  rotate: false
+  xy: 715, 1475
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+elementStone034
+  rotate: false
+  xy: 857, 1475
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+elementStone039
+  rotate: false
+  xy: 999, 1475
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+elementExplosive022
+  rotate: false
+  xy: 217, 1395
+  size: 70, 140
+  orig: 70, 140
+  offset: 0, 0
+  index: -1
+elementStone050
+  rotate: false
+  xy: 1253, 1833
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+elementExplosive015
+  rotate: false
+  xy: 1333, 1975
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementWood017
+  rotate: false
+  xy: 289, 1333
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+elementWood022
+  rotate: false
+  xy: 431, 1333
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+elementWood033
+  rotate: false
+  xy: 573, 1333
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+elementWood038
+  rotate: false
+  xy: 715, 1333
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+elementWood049
+  rotate: false
+  xy: 857, 1333
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+elementExplosive033
+  rotate: false
+  xy: 217, 1253
+  size: 70, 140
+  orig: 70, 140
+  offset: 0, 0
+  index: -1
+elementExplosive028
+  rotate: false
+  xy: 1475, 1975
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementExplosive031
+  rotate: false
+  xy: 1395, 1903
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementExplosive038
+  rotate: false
+  xy: 1, 357
+  size: 70, 140
+  orig: 70, 140
+  offset: 0, 0
+  index: -1
+elementExplosive044
+  rotate: false
+  xy: 999, 1403
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementExplosive050
+  rotate: false
+  xy: 289, 1261
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementExplosive052
+  rotate: false
+  xy: 73, 579
+  size: 70, 140
+  orig: 70, 140
+  offset: 0, 0
+  index: -1
+elementGlass001
+  rotate: false
+  xy: 1617, 1975
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementGlass004
+  rotate: false
+  xy: 1537, 1903
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementGlass007
+  rotate: false
+  xy: 431, 1261
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementGlass010
+  rotate: false
+  xy: 1759, 1975
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementGlass013
+  rotate: false
+  xy: 1679, 1903
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementGlass016
+  rotate: false
+  xy: 573, 1261
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementGlass018
+  rotate: false
+  xy: 145, 951
+  size: 70, 140
+  orig: 70, 140
+  offset: 0, 0
+  index: -1
+elementGlass023
+  rotate: false
+  xy: 217, 1111
+  size: 70, 140
+  orig: 70, 140
+  offset: 0, 0
+  index: -1
+elementGlass029
+  rotate: false
+  xy: 289, 1189
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementGlass032
+  rotate: false
+  xy: 1901, 1975
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementGlass034
+  rotate: false
+  xy: 1, 215
+  size: 70, 140
+  orig: 70, 140
+  offset: 0, 0
+  index: -1
+elementGlass039
+  rotate: false
+  xy: 73, 437
+  size: 70, 140
+  orig: 70, 140
+  offset: 0, 0
+  index: -1
+elementGlass045
+  rotate: false
+  xy: 1821, 1903
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementGlass048
+  rotate: false
+  xy: 715, 1261
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementGlass050
+  rotate: false
+  xy: 145, 809
+  size: 70, 140
+  orig: 70, 140
+  offset: 0, 0
+  index: -1
+elementMetal000
+  rotate: false
+  xy: 289, 1117
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementMetal003
+  rotate: false
+  xy: 431, 1189
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementMetal006
+  rotate: false
+  xy: 857, 1261
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementMetal009
+  rotate: false
+  xy: 999, 1331
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementMetal012
+  rotate: false
+  xy: 431, 1117
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementMetal015
+  rotate: false
+  xy: 573, 1189
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementMetal017
+  rotate: false
+  xy: 217, 969
+  size: 70, 140
+  orig: 70, 140
+  offset: 0, 0
+  index: -1
+elementMetal022
+  rotate: false
+  xy: 1, 73
+  size: 70, 140
+  orig: 70, 140
+  offset: 0, 0
+  index: -1
+elementMetal028
+  rotate: false
+  xy: 289, 1045
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementMetal031
+  rotate: false
+  xy: 573, 1117
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementMetal033
+  rotate: false
+  xy: 73, 295
+  size: 70, 140
+  orig: 70, 140
+  offset: 0, 0
+  index: -1
+elementMetal038
+  rotate: false
+  xy: 145, 667
+  size: 70, 140
+  orig: 70, 140
+  offset: 0, 0
+  index: -1
+elementMetal044
+  rotate: false
+  xy: 715, 1189
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementMetal050
+  rotate: false
+  xy: 289, 973
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementMetal052
+  rotate: false
+  xy: 217, 827
+  size: 70, 140
+  orig: 70, 140
+  offset: 0, 0
+  index: -1
+elementStone000
+  rotate: false
+  xy: 431, 1045
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementStone006
+  rotate: false
+  xy: 715, 1117
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementStone012
+  rotate: false
+  xy: 857, 1189
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementStone015
+  rotate: false
+  xy: 999, 1259
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementStone017
+  rotate: false
+  xy: 73, 153
+  size: 70, 140
+  orig: 70, 140
+  offset: 0, 0
+  index: -1
+elementStone022
+  rotate: false
+  xy: 145, 525
+  size: 70, 140
+  orig: 70, 140
+  offset: 0, 0
+  index: -1
+elementStone028
+  rotate: false
+  xy: 289, 901
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementStone031
+  rotate: false
+  xy: 431, 973
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementStone033
+  rotate: false
+  xy: 217, 685
+  size: 70, 140
+  orig: 70, 140
+  offset: 0, 0
+  index: -1
+elementStone038
+  rotate: false
+  xy: 573, 975
+  size: 70, 140
+  orig: 70, 140
+  offset: 0, 0
+  index: -1
+elementStone044
+  rotate: false
+  xy: 857, 1117
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementStone047
+  rotate: false
+  xy: 999, 1187
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementStone049
+  rotate: false
+  xy: 145, 383
+  size: 70, 140
+  orig: 70, 140
+  offset: 0, 0
+  index: -1
+elementWood002
+  rotate: false
+  xy: 289, 829
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementWood005
+  rotate: false
+  xy: 431, 901
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementWood008
+  rotate: false
+  xy: 645, 1045
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementWood011
+  rotate: false
+  xy: 289, 757
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementWood014
+  rotate: false
+  xy: 431, 829
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementWood016
+  rotate: false
+  xy: 217, 543
+  size: 70, 140
+  orig: 70, 140
+  offset: 0, 0
+  index: -1
+elementWood021
+  rotate: false
+  xy: 573, 833
+  size: 70, 140
+  orig: 70, 140
+  offset: 0, 0
+  index: -1
+elementWood027
+  rotate: false
+  xy: 645, 973
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementWood030
+  rotate: false
+  xy: 787, 1045
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementWood032
+  rotate: false
+  xy: 145, 241
+  size: 70, 140
+  orig: 70, 140
+  offset: 0, 0
+  index: -1
+elementWood037
+  rotate: false
+  xy: 289, 615
+  size: 70, 140
+  orig: 70, 140
+  offset: 0, 0
+  index: -1
+elementWood043
+  rotate: false
+  xy: 431, 757
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementWood046
+  rotate: false
+  xy: 645, 901
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+elementWood048
+  rotate: false
+  xy: 217, 401
+  size: 70, 140
+  orig: 70, 140
+  offset: 0, 0
+  index: -1
+elementWood054
+  rotate: false
+  xy: 787, 973
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+alienBeige_round
+  rotate: false
+  xy: 1963, 1903
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+alienBeige_square
+  rotate: false
+  xy: 1, 1
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+alienBeige_suit
+  rotate: false
+  xy: 73, 81
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+alienBlue_round
+  rotate: false
+  xy: 573, 761
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+alienBlue_square
+  rotate: false
+  xy: 145, 169
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+alienBlue_suit
+  rotate: false
+  xy: 289, 543
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+alienGreen_round
+  rotate: false
+  xy: 361, 685
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+alienGreen_square
+  rotate: false
+  xy: 645, 829
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+alienGreen_suit
+  rotate: false
+  xy: 217, 329
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+alienPink_round
+  rotate: false
+  xy: 787, 901
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+alienPink_square
+  rotate: false
+  xy: 73, 9
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+alienPink_suit
+  rotate: false
+  xy: 145, 97
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+alienYellow_round
+  rotate: false
+  xy: 289, 471
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+alienYellow_square
+  rotate: false
+  xy: 361, 613
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+alienYellow_suit
+  rotate: false
+  xy: 433, 685
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+bush
+  rotate: false
+  xy: 717, 829
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+cactus
+  rotate: false
+  xy: 217, 257
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+coinBronze
+  rotate: false
+  xy: 145, 25
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+coinDiamond
+  rotate: false
+  xy: 289, 399
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+coinGold
+  rotate: false
+  xy: 361, 541
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+coinSilver
+  rotate: false
+  xy: 433, 613
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+dirt
+  rotate: false
+  xy: 217, 185
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementExplosive001
+  rotate: false
+  xy: 289, 327
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementExplosive002
+  rotate: false
+  xy: 361, 469
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementStone002
+  rotate: false
+  xy: 361, 469
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementExplosive004
+  rotate: false
+  xy: 433, 541
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementStone004
+  rotate: false
+  xy: 433, 541
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementExplosive005
+  rotate: false
+  xy: 217, 113
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementExplosive007
+  rotate: false
+  xy: 289, 255
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementExplosive008
+  rotate: false
+  xy: 361, 397
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementStone008
+  rotate: false
+  xy: 361, 397
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementExplosive010
+  rotate: false
+  xy: 433, 469
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementStone010
+  rotate: false
+  xy: 433, 469
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementExplosive011
+  rotate: false
+  xy: 217, 41
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementExplosive014
+  rotate: false
+  xy: 289, 183
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementExplosive027
+  rotate: false
+  xy: 361, 325
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementStone027
+  rotate: false
+  xy: 361, 325
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementExplosive030
+  rotate: false
+  xy: 433, 397
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementStone030
+  rotate: false
+  xy: 433, 397
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementExplosive043
+  rotate: false
+  xy: 289, 111
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementExplosive045
+  rotate: false
+  xy: 361, 253
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementExplosive049
+  rotate: false
+  xy: 433, 325
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementExplosive057
+  rotate: false
+  xy: 361, 181
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementGlass000
+  rotate: false
+  xy: 433, 253
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementGlass002
+  rotate: false
+  xy: 433, 181
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementGlass003
+  rotate: false
+  xy: 1395, 1831
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementGlass005
+  rotate: false
+  xy: 1467, 1831
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementGlass006
+  rotate: false
+  xy: 1539, 1831
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementGlass008
+  rotate: false
+  xy: 1611, 1831
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementGlass009
+  rotate: false
+  xy: 1683, 1831
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementGlass011
+  rotate: false
+  xy: 1755, 1831
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementGlass012
+  rotate: false
+  xy: 1827, 1831
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementGlass015
+  rotate: false
+  xy: 1899, 1831
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementGlass028
+  rotate: false
+  xy: 999, 1115
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementGlass031
+  rotate: false
+  xy: 859, 901
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementGlass044
+  rotate: false
+  xy: 789, 829
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementGlass046
+  rotate: false
+  xy: 289, 39
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementGlass047
+  rotate: false
+  xy: 361, 109
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementMetal001
+  rotate: false
+  xy: 433, 109
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementMetal002
+  rotate: false
+  xy: 1071, 1115
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementMetal004
+  rotate: false
+  xy: 861, 829
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementMetal005
+  rotate: false
+  xy: 361, 37
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementMetal007
+  rotate: false
+  xy: 433, 37
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementMetal008
+  rotate: false
+  xy: 645, 757
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementMetal010
+  rotate: false
+  xy: 717, 757
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementMetal011
+  rotate: false
+  xy: 789, 757
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementMetal014
+  rotate: false
+  xy: 861, 757
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementMetal027
+  rotate: false
+  xy: 505, 685
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementMetal030
+  rotate: false
+  xy: 505, 613
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementMetal043
+  rotate: false
+  xy: 505, 541
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementMetal045
+  rotate: false
+  xy: 505, 469
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementMetal049
+  rotate: false
+  xy: 505, 397
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementMetal057
+  rotate: false
+  xy: 505, 325
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementStone001
+  rotate: false
+  xy: 505, 253
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementStone005
+  rotate: false
+  xy: 505, 181
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementStone007
+  rotate: false
+  xy: 505, 109
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementStone011
+  rotate: false
+  xy: 505, 37
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementStone014
+  rotate: false
+  xy: 1971, 1831
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementStone043
+  rotate: false
+  xy: 1095, 1759
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementStone045
+  rotate: false
+  xy: 1167, 1761
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementStone046
+  rotate: false
+  xy: 1239, 1761
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementStone054
+  rotate: false
+  xy: 1311, 1761
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementWood000
+  rotate: false
+  xy: 1383, 1759
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementWood001
+  rotate: false
+  xy: 1455, 1759
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementWood003
+  rotate: false
+  xy: 1527, 1759
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementWood004
+  rotate: false
+  xy: 1599, 1759
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementWood006
+  rotate: false
+  xy: 1671, 1759
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementWood007
+  rotate: false
+  xy: 1743, 1759
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementWood009
+  rotate: false
+  xy: 1815, 1759
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementWood010
+  rotate: false
+  xy: 1887, 1759
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementWood013
+  rotate: false
+  xy: 1959, 1759
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+debrisGlass
+  rotate: false
+  xy: 929, 1059
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: 1
+elementWood026
+  rotate: false
+  xy: 929, 987
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementWood029
+  rotate: false
+  xy: 931, 915
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementWood042
+  rotate: false
+  xy: 933, 843
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementWood044
+  rotate: false
+  xy: 933, 771
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+debrisStone
+  rotate: false
+  xy: 577, 703
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: 1
+elementWood045
+  rotate: false
+  xy: 577, 631
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+elementWood053
+  rotate: false
+  xy: 577, 559
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+flagBlue
+  rotate: false
+  xy: 577, 487
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+flagGreen
+  rotate: false
+  xy: 577, 415
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+flagRed
+  rotate: false
+  xy: 577, 343
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+flagYellow
+  rotate: false
+  xy: 577, 271
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+frozenBush
+  rotate: false
+  xy: 577, 199
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+grass
+  rotate: false
+  xy: 577, 127
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+rock
+  rotate: false
+  xy: 577, 55
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+debrisGlass
+  rotate: false
+  xy: 643, 703
+  size: 59, 52
+  orig: 59, 52
+  offset: 0, 0
+  index: 3
+sand
+  rotate: false
+  xy: 649, 631
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+snow
+  rotate: false
+  xy: 649, 559
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+starBronze
+  rotate: false
+  xy: 649, 487
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+starDiamond
+  rotate: false
+  xy: 649, 415
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+starGold
+  rotate: false
+  xy: 649, 343
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+starSilver
+  rotate: false
+  xy: 649, 271
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+debrisStone
+  rotate: false
+  xy: 704, 703
+  size: 59, 52
+  orig: 59, 52
+  offset: 0, 0
+  index: 3
+debrisWood
+  rotate: false
+  xy: 649, 213
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: 1
+elementExplosive047
+  rotate: false
+  xy: 649, 155
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+elementMetal047
+  rotate: false
+  xy: 649, 97
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+debrisWood
+  rotate: false
+  xy: 765, 703
+  size: 59, 52
+  orig: 59, 52
+  offset: 0, 0
+  index: 3
+debrisWood
+  rotate: false
+  xy: 721, 640
+  size: 55, 61
+  orig: 55, 61
+  offset: 0, 0
+  index: 2
+elementExplosive048
+  rotate: false
+  xy: 826, 702
+  size: 58, 53
+  orig: 58, 53
+  offset: 0, 0
+  index: -1
+elementMetal048
+  rotate: false
+  xy: 721, 585
+  size: 58, 53
+  orig: 58, 53
+  offset: 0, 0
+  index: -1
